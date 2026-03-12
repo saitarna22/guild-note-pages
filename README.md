@@ -1,0 +1,2 @@
+# guild-note-pages
+ギルドノートサポートページ
